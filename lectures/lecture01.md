@@ -1,4 +1,4 @@
-# Lecture 1: Course Introduction
+# Course Introduction
 
 ## Course Overview
 - Syllabus, covered topics, laboratory works
@@ -463,4 +463,5 @@ int main() {
    return 0;
 }
 ```
+
 
