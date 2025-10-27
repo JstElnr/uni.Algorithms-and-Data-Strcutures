@@ -1,0 +1,3 @@
+[submodule "lectures"]
+    path = lectures
+    url = https://github.com/askarakshabayev/ADS2025FALL.git
