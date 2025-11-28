@@ -38,11 +38,12 @@ int main(){
     vector<int> arr=v;
     arr.insert(arr.end(),b.begin(),b.end());
 
-    merge(arr,0,n-1,n+m-1);
+    mergesort(arr,0,n+m-1);
 
     for(int i=0;i<arr.size();i++){
         if(i) cout<<' ';
         cout<<arr[i];
     }
     cout<<endl;
+
 }
